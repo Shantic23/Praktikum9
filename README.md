@@ -8,10 +8,13 @@
 - Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
 - Python memperlakukan tanda kutip tunggal (' ') sama dengan tanda kutip ganda (" ").
 - Membuat string semudah memberi nilai pada sebuah variabel.
-
+```bash
 Contoh :
+
 var1 =  # penggunaan petik tunggal = 'Hello World!' 
 var2 =  # penggunaan petik ganda =  "Python Programming"
+```
+
 # Latihan 1
 
 ```bash
