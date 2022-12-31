@@ -27,7 +27,7 @@ txt = 'Hello World'
 ```
 
 dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image1](Screenshot/ss1.png)
+![image1](Screenshot/ss1.png)
 
 
 2. Ambil karakter terakhir
@@ -39,7 +39,7 @@ dengan kode program di atas maka akan menghasilkan output sebagai berikut:
 ```
 
 dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image2](Screenshot/ss2.png)
+![image2](Screenshot/ss2.png)
     
 3. Ambil karakter index ke-2 sampai index ke-4 (llo)
 
@@ -50,7 +50,7 @@ dengan kode program di atas maka akan menghasilkan output sebagai berikut:
 ```
 
 dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image3](Screenshot/ss3.png)
+![image3](Screenshot/ss3.png)
 
 4. Hilangkan spasi pada text tersebut (HelloWorld)
 
@@ -62,7 +62,7 @@ dengan kode program di atas maka akan menghasilkan output sebagai berikut:
 ```
 
 dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image4](Screenshot/ss4.png)
+![image4](Screenshot/ss4.png)
 
 
 5. Ubah text menjadi huruf besar
@@ -73,7 +73,7 @@ dengan kode program di atas maka akan menghasilkan output sebagai berikut:
 ```
 
    dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image5](Screenshot/ss5.png)
+![image5](Screenshot/ss5.png)
 
 6. Ubah text menjadi huruf kecil
 
@@ -85,7 +85,7 @@ dengan kode program di atas maka akan menghasilkan output sebagai berikut:
    ```
             
  dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image6](Screenshot/ss6.png)
+![image6](Screenshot/ss6.png)
 
 7. Ganti karakter H menjadi karakter J
 
@@ -97,7 +97,7 @@ dengan kode program di atas maka akan menghasilkan output sebagai berikut:
 ```
 
 dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image7](Screenshot/ss7.png)
+![image7](Screenshot/ss7.png)
 
 # Latihan 2
 
@@ -117,12 +117,12 @@ Untuk memasukan variabel kedalam string, tambahkan kurung kurawal {} untuk menem
 
 ```bash
     umur = 21
-    txt = "\nHello, Nama Saya Krisno, dan umur saya adalah {0} tahun\n"
+    txt = "\nHello, Nama Saya Shanti , dan umur saya adalah {0} tahun\n"
 
     print(txt.format(umur))
 ```
 
     dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-! [image8](Screenshot/ss8.png)
+![image8] (Screenshot/ss8.png)
 
 # TERIMA KASIH
