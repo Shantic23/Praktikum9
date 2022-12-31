@@ -123,6 +123,6 @@ Untuk memasukan variabel kedalam string, tambahkan kurung kurawal {} untuk menem
 ```
 
     dengan kode program di atas maka akan menghasilkan output sebagai berikut:
-![image8] (Screenshot/ss8.png)
+![image8](Screenshot/ss8.png)
 
 # TERIMA KASIH
