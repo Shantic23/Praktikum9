@@ -10,7 +10,7 @@
 - Membuat string semudah memberi nilai pada sebuah variabel.
 
 Contoh :
-var1  # penggunaan petik tunggal = 'Hello World!' 
+var1 =  # penggunaan petik tunggal = 'Hello World!' 
 var2 =  # penggunaan petik ganda =  "Python Programming"
 # Latihan 1
 
